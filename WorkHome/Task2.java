@@ -1,4 +1,4 @@
-package HomeWork;
+package WorkHome;
 
 import java.util.ArrayList;
 import java.util.Random;
